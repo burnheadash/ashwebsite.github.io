@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height:100%;
+    width: 100%;
+}
+
+body{
+    background: beige;
+}
+
+header
+{
+    font-size: 22px;
+
+}
+li{
+    position: relative;
+    display: inline;
+    margin-left: 20px;
+    background: red;
+    padding: 10px;
+    top: 40px;
+}
+
+img{
+    margin-top: 50px;
+}
+button{
+    color: blue;
+}
+
+p{
+    font-size: 22px;
+    text-align: center;
+}
